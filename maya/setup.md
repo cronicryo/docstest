@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Installation
-parent: maya
+parent: Maya
 nav_order: 1
 ---
