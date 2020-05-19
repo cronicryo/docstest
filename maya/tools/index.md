@@ -9,7 +9,6 @@ parent: Maya
 
 # Modeling
 
-
 ## Some Tool
 
 [Some Tool](sometool)
