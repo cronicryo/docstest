@@ -12,4 +12,4 @@ parent: maya
 
 ## Some Tool
 
-[Some Tool](/sometool)
+[Some Tool](sometool)
