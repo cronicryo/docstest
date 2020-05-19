@@ -21,6 +21,6 @@ has_children: true
 
 ### Some Tool
 
-[Some Tool](Tools/SomeTool)
+[Some Tool](tools/SomeTool)
 
  
