@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Tools
+title: maya
 nav_order: 2
 has_children: true
-parent: Test Section
 ---

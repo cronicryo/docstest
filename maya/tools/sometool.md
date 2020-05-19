@@ -1,5 +1,5 @@
 ---
 layout: default
-title: General
+title: Some Tool
 nav_order: 2
 ---
