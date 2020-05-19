@@ -17,7 +17,7 @@ has_children: true
 
 ### Some Tool
 ```python
-import blah from blah
+from blah import blahh
 ```
 [Some Tool](tools/SomeTool)
 
