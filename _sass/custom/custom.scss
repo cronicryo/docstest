@@ -135,6 +135,11 @@ $code-background-color: #272822;
 $primary: #cddc39;
 $secondary: #3c1759;
 
+
+$grey-dk-300: #303030;
+$grey-dk-200: #ff0000;
+$grey-dk-300: # 0000ff;
+
 $body-background-color: $grey-dk-300;
 $sidebar-color: $grey-dk-300;
 $border-color: $grey-dk-200;
@@ -144,8 +149,8 @@ $body-heading-color: $grey-lt-000;
 $nav-child-link-color: $grey-dk-000;
 $search-result-preview-color: $grey-dk-000;
 
-$link-color: $primary;
-$btn-primary-color: $primary;
+$link-color: $secondary;
+$btn-primary-color: $secondary;
 $base-button-color: $grey-dk-250;
 
 $code-background-color: #272822;
